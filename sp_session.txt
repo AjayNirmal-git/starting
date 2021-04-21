@@ -1,0 +1,263 @@
+github-gitscm
+
+
+1.online(githubrepo)-empty,offline(gitscmfolder)-notempty
+git init,git add,git commit,git push
+or
+set upstream
+
+2.online(githubrepo)-not empty,offline(gitscmfolder)-empty
+git clone
+
+
+branches.>commit->lock
+can we use scm alsone:"? yes we can as offline- for file sharing.
+
+Merge and rebase
+Merge-> checkout to dest branch.
+rebase- checkout + merge.
+
+reset types
+
+git repose- public & private diff.
+
+branch deletion.
+
+
+angt maven gradle.
+
+y maven, build faster. dynamic plugin. 
+pom.xml - dependency section.
+
+mvn repository- plugin structure. very imp
+
+jenkin
+
+
+curetn version of jenkins.
+tomcat localhost 9001
+port numbers???
+jenkin 8080
+apache tomcat installation-9090
+
+
+role tom cat
+
+how can we isntall apache tomcat.????
+we can insatll as a window service.
+
+
+multibrach plugin
+multi withdefault
+inline 
+multibrancg.
+
+poll scm diff webhook?????
+
+dec 13---------------------------------
+
+guru99 agile,waterfalls
+
+plan code build test release deploy operate monitor. infinity loop.
+
+dat to activities. c
+
+create pipelines, mavin project/
+config management. 
+jenkin,s docker, ansible.
+
+contenirsation.
+
+
+git ui is on a browser.
+
+command line- git clone.
+we wil configure webhook.
+s
+
+github webhooksz   7128388241
+
+shell.
+
+pull clone.   fetch. pull efexctive than fetch.  fetch onyl metada but not merge.
+
+git reflog 
+
+merge vs rebase
+revert reset
+
+diff
+
+si\oft vs hard.s
+
+gitlab... no handson. CI platform.
+
+
+
+ANT
+
+
+build.xml   codingteema will write the xml file. (dev team.)
+
+what build tool???
+
+complie class file.
+
+
+MAVEN.
+
+what is module  / main module??? POM. project object module.
+
+verify vs install
+
+watr is mavin package?? to compile the code. to do in distritbutable formatge i.e in war or jart
+
+tutorials.jenkov..com
+ mvnrepository. 
+
+Gradle
+
+clean build.
+class file.
+gradle compileJava
+
+
+-----------------
+Jenkins
+
+
+what kind of erros in jenkins.
+
+troublw shoot project. 
+
+config system.
+
+env variables
+
+config global sec
+global tool config
+sys info -  properties.
+
+
+13 dec eve session--------------
+
+jenkins----config global security.
+
+Agents.s
+
+new slave or client. s
+#of exectorss.
+
+launch method???
+service. slave will launch as windoews service.
+
+Jenkins-->Nodes.
+
+Java webstart.???
+preiously it was explicit java web start .
+now it is laucnhagent via browser.
+
+launch mode - 2nd mode.
+
+hook trigger effiecient than poll scm.
+
+invoke top level maven targets.s
+
+
+
+what is pipeline?
+freestyle??
+ writing the jenkins proeject as a code- pripline.
+
+declarative.
+scripted. 
+
+
+
+multi branch pipeline-
+
+
+vangrant - go through slightly.
+
+Ansibel architecture.
+playbook and inventory
+
+key gen , how generated???
+
+add private key to authenticate.
+
+adhoc commands???
+
+
+directory structure of YAML
+
+role basic taksk.
+
+
+what config push?? tasks
+where servers.. main yaml/...
+
+14 december-------------------------------------------------
+playbook is yaml
+starts with ...
+
+access.redhat.com.  yum file cheat
+
+jinja used for template.
+
+Puppet:
+
+
+install  cmd pupper server
+start puppet server.
+
+
+
+Chef-------------------------
+knife is imp
+
+run list
+
+chef server ctl reconfigure
+chef server ctl user create
+
+
+chef server url
+ookbook_path
+
+client_key
+
+main -- knife_ssl_fetch  all authenticatin will happen.
+
+node run list intha node , intha cookbook.
+
+
+cookbook.
+
+default .rb
+
+
+Docker  boot file system.
+
+collabnix.com search docker container images.
+
+docker piull to get images
+
+instaead of in container , will create a volume . will keep file in volume.s local C:
+it will deploy..
+
+searchu ubuntu- get latest version.
+
+dockwer file:
+
+docker compose:
+
+
+
+
+
+
+
+
+
+
